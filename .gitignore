@@ -2,3 +2,4 @@ node_modules
 .vscode-test/
 server/out/*
 *.vsix
+!vscode-google-translate-1.4.9-custombuild.vsix
